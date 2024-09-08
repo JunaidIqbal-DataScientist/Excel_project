@@ -47,6 +47,6 @@ The dataset contains 2000 rows and 15 columns, representing various aspects of p
 Clone the repository:
 
 1. Copy code:
-git clone https://github.com/your-repository-url.git
+git clone https://github.com/JunaidIqbal-DataScientist/Excel_project.git
 
 2. Open the Excel file and follow the instructions to view the pivot tables and analysis.
